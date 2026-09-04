@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Pets Duel",
+  "description": "A 2D retro pixel art monster dueling game featuring 500 unique pets, tactical elemental battles, wild captures, team building, and Pokedex exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
